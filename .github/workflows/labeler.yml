@@ -16,4 +16,3 @@ jobs:
         labels: |
           Bug fix,bug
           New feature,enhancement
-          Breaking change,breaking-change
